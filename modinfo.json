@@ -1,0 +1,21 @@
+{
+	"identifier": "com.pa.daedalus.contrast-strat-icons",
+	"display_name": "Contrastive Strategic Icons",
+	"description": "Dark colors get white outlines that turn black when selected.",
+	"author": "Quildtide",
+	"signature": "not yet implemented",
+	"forum": "",
+	"priority": 100,
+	"icon": "",
+    "titansOnly": false,
+    "classicOnly": false,
+	"category": [
+        "classic",
+        "titans",
+        "ui"
+	],
+	"context": "client",
+	"date": "2022-02-13",
+	"build": "115958",
+    "version": "0.0.1"
+}
